@@ -1,0 +1,29 @@
+000046a:1:{s:4:"time";s:21:"0.92195300 1672083513";}1672087113a:1:{i:0;O:8:"stdClass":8:{s:2:"id";i:50;s:6:"rel_id";s:3:"139";s:8:"rel_type";s:14:"content_fields";s:10:"field_name";s:5:"value";s:11:"field_value";s:4080:"
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-12 allow-drop element" id="element_1672069641068" style="--animate-duration:1s;" staticdesign="true">
+                <div class="mw-row" id="element_row_1672069640971" style="height: auto; --animate-duration:1s;">
+                    <div class="mw-col" style="width: 33.3333%; height: auto;">
+                        <div class="mw-col-container element" id="element_1672069641940">
+                            <img class="element" src="{SITE_URL}userfiles/media/default/artboard-1.png" id="element_1672069641078" style="height: auto; --animate-duration:1s;" staticdesign="true"><div class="mw-empty-element element" id="element_1672069640968" style="--animate-duration:1s;"><p class="element" id="element_1672069641939"></p></div>
+                        </div>
+                    </div>
+                <div class="mw-col" style="width: 73.3333%; --animate-duration:1s; height: auto;" id="mw-selector-1672074678083"><div class="mw-col-container element" id="element_1672069641171">
+<div class="mw-empty-element element" id="element_1672069641071" style="--animate-duration:1s;">
+<h1 class="element" data-mwplaceholder="هذا هو لقبي" id="element_1672069641170" style="--animate-duration:1s; visibility: visible;"><br></h1>
+<h1 class="element" data-mwplaceholder="هذا هو لقبي" id="element_1672069641170" style="--animate-duration:1s; visibility: visible;"><br></h1>
+<h1 class="element" data-mwplaceholder="هذا هو لقبي" id="element_1672069641170" style="--animate-duration:1s; visibility: visible;"><br></h1>
+<h1 class="element" data-mwplaceholder="هذا هو لقبي" id="element_1672069641170" style="--animate-duration:1s; visibility: visible;" staticdesign="true"><span style="font-size: 24px; --animate-duration:1s;" id="mw-selector-1672074678113" staticdesign="true">البوابة الوطنية للمدفوعات</span></h1>
+<p class="element lipsum" data-mwplaceholder="This text is set by default and is suitable for edit in real time. By default the drag and drop core feature will allow you to position it anywhere on the site. Get creative &amp; Make Web." id="element_1672069641342" style="--animate-duration:1s;">بوابة المدفوعات متعدد الخدمات والتي تتيح للعمــــــلاء</p>
+<p class="element lipsum" data-mwplaceholder="This text is set by default and is suitable for edit in real time. By default the drag and drop core feature will allow you to position it anywhere on the site. Get creative &amp; Make Web." id="element_1672069641342" style="--animate-duration:1s;"> تنفيذ معاملاتهم المالية عبر الهاتف المحمول او بطائق <br></p>
+<p class="element lipsum" data-mwplaceholder="This text is set by default and is suitable for edit in real time. By default the drag and drop core feature will allow you to position it anywhere on the site. Get creative &amp; Make Web." id="element_1672069641342" style="--animate-duration:1s;" staticdesign="true">الدفع، وتمكينهم من تنفيذ معاملاتهم المالية بشكل<br></p>
+<p class="element lipsum" data-mwplaceholder="This text is set by default and is suitable for edit in real time. By default the drag and drop core feature will allow you to position it anywhere on the site. Get creative &amp; Make Web." id="element_1672069641342" style="text-align: right; --animate-duration:1s;">رقمي أكثر امان</p>
+<module class="module module module module-btn" data-mw-title="Button" id="mw-module-1672081658086" data-type="btn" style="visibility: visible; --animate-duration:1s;"></module>
+</div>
+</div></div>
+<div class="mw-col" style="width: 7.7333%; height: auto; --animate-duration:1s;" id="mw-selector-1672074678092"><div class="mw-col-container element" id="element_1672069641522"><div class="mw-empty-element element" id="element_1672069641072"><p class="element" id="element_1672069641523"></p></div></div></div>
+</div>
+            </div>
+        </div>
+    </div>
+";s:6:"locale";s:5:"ar_SA";s:10:"created_at";s:19:"2022-12-26 17:51:45";s:10:"updated_at";s:19:"2022-12-26 19:33:10";}}

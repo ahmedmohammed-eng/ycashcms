@@ -1,0 +1,2 @@
+<module type="categories/edit_category" category_id="<?php echo e($id); ?>" />
+<?php /**PATH C:\xampp\htdocs\microweber-master\src\MicroweberPackages\Category\Providers/../resources/views/admin/category/edit.blade.php ENDPATH**/ ?>

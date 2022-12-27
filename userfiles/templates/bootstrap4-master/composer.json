@@ -1,0 +1,17 @@
+{
+  "name": "microweber/template-bootstrap4",
+  "type": "microweber-template",
+  "description": "Bootstrap 4",
+  "keywords": [
+    "microweber"
+  ],
+  "homepage": "https://microweber.com/bootstrap4",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "MW Team",
+      "email": "contacts@microweber.com"
+    }
+  ],
+  "target-dir": "bootstrap4"
+}

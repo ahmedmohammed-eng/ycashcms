@@ -1,0 +1,15 @@
+<?php return array (
+  'version' => '1.3.1',
+  'install_default_template' => 'new-world',
+  'install_default_template_content' => 1,
+  'compile_assets' => 1,
+  'disable_model_cache' => 0,
+  'admin_url' => 'admin',
+  'site_lang' => 'ar_SA',
+  'has_admin' => 1,
+  'is_installed' => 1,
+  'updated_at' => '2022-12-19 15:19:35',
+  'force_https' => 0,
+  'update_channel' => 'stable',
+  'developer_mode' => 1,
+);
