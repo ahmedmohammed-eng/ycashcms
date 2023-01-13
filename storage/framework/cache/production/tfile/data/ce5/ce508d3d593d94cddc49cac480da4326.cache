@@ -1,0 +1,58 @@
+000046a:1:{s:4:"time";s:21:"0.66477700 1673633731";}1673693731a:9:{s:2:"id";i:192;s:10:"updated_at";s:19:"2023-01-12 15:31:26";s:10:"created_at";s:19:"2023-01-09 09:00:38";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"module";s:6:"rel_id";s:1:"0";s:5:"field";s:36:"layout-skin-5-layouts-20230109085949";s:5:"value";s:3812:"
+    <section class="section-13 inverse" id="mw-selector-1673272470610" style="--animate-duration:1s;">
+        <div class="p-t-150 p-b-150 background-image-holder element container-fluid" style="background-image: url('{SITE_URL}userfiles/templates/microweber-whitelabel/assets/img/templates_bg.png'); --animate-duration:1s;" id="mw-selector-1673272470607">
+            <div class="row element" id="mw-selector-1673254364748" style="--animate-duration:1s;">
+                <div class="col-xl-10 mx-auto allow-drop element" id="element_1673254138880" style="--animate-duration:1s;">
+<div class="mw-row" id="element_row_1673254139171" style="height: auto;">
+  <div class="mw-col" style="width: 67.6%; height: auto; --animate-duration:1s;" id="mw-selector-1673254364753">
+      <div class="mw-col-container element col-sm-2 col-md-11" id="element_1673254139230" style="--animate-duration:1s;">
+        <div class="mw-empty-element element" id="element_1673254139182" style="--animate-duration:1s;" staticdesign="true">
+<img class="element" src="{SITE_URL}userfiles/media/default/63bac34d7fceb0ac3c5319f3-1-35-p-500.jpg" id="element_1673254139187" style="height: auto; --animate-duration:1s; width: 95.3839px;" staticdesign="true"><div class="element mw-empty-element" id="element_1673254139228">
+
+<h1 class="element" data-mwplaceholder="هذا هو لقبي" id="element_1673254139231" style="--animate-duration:1s;">التجــــــارة الالكترونية
+</h1>
+<p class="element lipsum" data-mwplaceholder="This text is set by default and is suitable for edit in real time. By default the drag and drop core feature will allow you to position it anywhere on the site. Get creative &amp; Make Web." id="element_1673254139266" style="--animate-duration:1s; visibility: visible;">تتيح هذه الخدمة للريادي الاعمال والتاجر من بناء متجره الإلكتروني<br>‌بكـل المميزات التي تتيح له الوصــول الــى أسواق مختلفــة
+
+</p>
+<div class="mw-row" id="element_row_1673254139459" style="height: auto;">
+  <div class="mw-col" style="width: 50%; height: auto;">
+      <div class="mw-col-container element" id="element_1673254139552">
+        <div class="mw-empty-element element" id="element_1673254139458"><module class="module mt-ready module-btn" data-mw-title="Button" data-type="btn" id="btn-20230109090619" style="visibility: visible;" parent-module-id="layouts-20230109085949" parent-module="layouts"></module></div>
+      </div>
+   </div>
+   <div class="mw-col" style="width: 50%; height: auto;">
+      <div class="mw-col-container element" id="element_1673254139525">
+        <div class="mw-empty-element element" id="element_1673254139460" style="--animate-duration:1s;"><module class="module mt-ready module module-audio " data-mw-title="Audio" data-type="audio" id="audio-20230109090634" parent-module-id="layouts-20230109085949" parent-module="layouts"></module></div>
+      </div>
+   </div>
+</div>
+
+</div>
+
+
+
+</div>
+      </div>
+   </div>
+   <div class="mw-col" style="width: 32.4%; height: auto;">
+      <div class="mw-col-container element" id="element_1673254139170">
+        <div class="mw-empty-element element" id="element_1673254139172" style="--animate-duration:1s;"><img class="element" src="{SITE_URL}userfiles/media/default/63ba602a9d5ae756d89474d1-torfebuary18-converted-recovered.png" id="element_1673254139176" style="height: auto; width: 375px;"></div>
+      </div>
+   </div>
+</div>
+
+                    
+                    
+                    <br><br>
+                    
+                    <br>
+                    <br>
+                    <br>
+                    
+                    <br>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+";}

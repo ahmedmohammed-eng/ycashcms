@@ -1,0 +1,16 @@
+000046a:1:{s:4:"time";s:21:"0.55430900 1673633731";}1673693731a:9:{s:2:"id";i:8;s:10:"updated_at";s:19:"2023-01-13 18:15:22";s:10:"created_at";s:19:"2019-10-03 07:56:20";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:7:"content";s:6:"rel_id";s:1:"1";s:5:"field";s:29:"microweber-whitelabel_content";s:5:"value";s:1830:"
+<module class="-layout tip module-cat-toggle-other mt-ready mw-drag-current-null module module-layouts" data-mw-title="Layouts" template="skin-1.php" id="mw-layout-1673158579778" data-type="layouts" style="--animate-duration:1s;"></module>
+<module class="module module module-layouts " data-mw-title="Layouts" template="skin-1.php" id="mw-layout-1672472440334" data-type="layouts" style="--animate-duration:1s;"></module>
+<module class="-layout tip module-cat-toggle-other mt-ready module module-layouts " data-mw-title="Layouts" template="skin-5.php" data-type="layouts" id="layouts-20230109092317" style="--animate-duration:1s;"></module>
+
+<module class=" module module-layouts " data-mw-title="Layouts" template="skin-5.php" id="mw-layout-1673252184742" data-type="layouts" style="--animate-duration:1s;" staticdesign="true"></module>
+
+
+<module class="module module module-layouts " data-mw-title="Layouts" id="mw-layout-1673167575189" data-type="layouts" style="--animate-duration:1s;"></module>
+<module class=" module module-layouts " data-mw-title="Layouts" template="skin-5.php" id="mw-layout-1673166014494" data-type="layouts" style="--animate-duration:1s;"></module>
+<module class="-layout tip module-cat-toggle-other mt-ready module module-layouts " data-mw-title="Layouts" template="skin-5.php" data-type="layouts" id="layouts-20230109085012" style="--animate-duration:1s;"></module>
+<module class="-layout tip module-cat-toggle-other mt-ready module module module-layouts " data-mw-title="Layouts" template="skin-5.php" data-type="layouts" id="layouts-20230109085949" style="--animate-duration:1s;"></module>
+
+<module class="module mt-ready module module-embed " data-mw-title="Embed Code" data-type="embed" id="embed-20230105172138" style="--animate-duration:1s; visibility: visible;" staticdesign="true"></module>
+
+";}

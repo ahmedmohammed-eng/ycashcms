@@ -1,0 +1,77 @@
+000046a:1:{s:4:"time";s:21:"0.62970100 1673633731";}1673693731a:9:{s:2:"id";i:190;s:10:"updated_at";s:19:"2023-01-09 09:38:17";s:10:"created_at";s:19:"2023-01-09 08:31:10";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"module";s:6:"rel_id";s:1:"0";s:5:"field";s:37:"layout-skin-5-mw-layout-1673252184742";s:5:"value";s:4162:"
+    <section class="section-13 inverse">
+        <div class="p-t-150 p-b-150 background-image-holder element container-fluid" style="background-image: url('{SITE_URL}userfiles/templates/microweber-whitelabel/assets/img/templates_bg.png'); --animate-duration:1s;" id="mw-selector-1673252497569">
+            <div class="row element" id="mw-selector-1673256189803" style="--animate-duration:1s;">
+                <div class="col-xl-10 mx-auto allow-drop element" id="element_1673252184747">
+<div class="mw-row" id="element_row_1673252185099" style="height: auto;">
+  <div class="mw-col" style="width: 9.2%; height: auto; --animate-duration:1s;" id="mw-selector-1673252497608">
+      
+   </div>
+   <div class="mw-col" style="width: 90.8%; height: auto;">
+      <div class="mw-col-container element" id="element_1673252185142">
+        <div class="mw-empty-element element" id="element_1673252185098">
+<div class="mw-row" id="element_row_1673252185127" style="height: auto;">
+  <div class="mw-col" style="width: 46.8%; height: auto; --animate-duration:1s;" id="mw-selector-1673252497562">
+      <div class="element mw-empty-element" id="element_1673252186509" style="visibility: visible;"><div class="mw-empty-element element" id="element_1673252185131" staticdesign="true" style="--animate-duration:1s; visibility: visible;">
+
+
+
+
+
+
+
+
+<img class="element" src="{SITE_URL}userfiles/media/default/63bb0cbea5f15fb8ee79cc28-untitled-1-02.png" id="element_1673252185137" style="height: auto; width: 109.597px; --animate-duration:1s; visibility: visible;">
+</div></div>
+<h1 class="element" data-mwplaceholder="هذا هو لقبي" id="element_1673252186599" style="--animate-duration:1s; visibility: visible;">التحويلات المالية</h1>
+<p class="element lipsum" data-mwplaceholder="This text is set by default and is suitable for edit in real time. By default the drag and drop core feature will allow you to position it anywhere on the site. Get creative &amp; Make Web." id="element_1673252186637" style="--animate-duration:1s;" staticdesign="true">أرسل واستلم الاموال من أي شخص ودفع لاي شخص  في اي مكان من حسابك الاكتروني او مباشرة من حسابك المصرفي
+
+</p>
+<div class="mw-row" style="height: auto;" id="element_row_1673252186674">
+  <div class="mw-col" style="width: 23.6%; height: auto; --animate-duration:1s;" id="mw-selector-1673252497605">
+      <div class="mw-col-container element" id="element_1673252186736">
+        <div class="mw-empty-element element" id="element_1673252186673"><module class="module mt-ready module-btn" data-mw-title="Button" data-type="btn" id="btn-20230109083020" style="visibility: visible;" parent-module-id="mw-layout-1673252184742" parent-module="layouts"></module></div>
+      </div>
+   </div>
+   <div class="mw-col" style="width: 76.4%; height: auto;">
+      <div class="mw-col-container element" id="element_1673252186735">
+        <div class="mw-empty-element element" id="element_1673252186732" style="--animate-duration:1s;"><module class="module mt-ready module-audio" data-mw-title="Audio" data-type="audio" id="audio-20230109083050" parent-module-id="mw-layout-1673252184742" parent-module="layouts"></module></div>
+      </div>
+   </div>
+</div>
+
+
+<div class="mw-col-container element" id="element_1673252185130" style="--animate-duration:1s;">
+        
+
+
+
+
+      </div>
+   </div>
+   <div class="mw-col" style="width: 53.2%; height: auto;">
+      <div class="mw-col-container element" id="element_1673252185129">
+        <div class="mw-empty-element element" id="element_1673252185128"><img class="element" src="{SITE_URL}userfiles/media/default/63b5b0ea7891b273538552b4-h-p-800.png" id="element_1673252185162" style="height: auto; width: 374.442px;"></div>
+      </div>
+   </div>
+</div>
+</div>
+      </div>
+   </div>
+</div>
+
+                    
+                    
+                    <br><br>
+                    
+                    <br>
+                    <br>
+                    <br>
+                    
+                    <br>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+";}

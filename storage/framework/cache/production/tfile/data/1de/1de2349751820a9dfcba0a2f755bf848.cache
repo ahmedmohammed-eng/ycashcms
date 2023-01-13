@@ -1,0 +1,69 @@
+000046a:1:{s:4:"time";s:21:"0.62140400 1673633731";}1673693731a:9:{s:2:"id";i:193;s:10:"updated_at";s:19:"2023-01-09 09:38:17";s:10:"created_at";s:19:"2023-01-09 09:36:12";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"module";s:6:"rel_id";s:1:"0";s:5:"field";s:36:"layout-skin-5-layouts-20230109092317";s:5:"value";s:3824:"
+    <section class="section-13 inverse" id="mw-selector-1673256189800" style="--animate-duration:1s;">
+        <div class="container p-t-150 p-b-150 background-image-holder element" style="background-image: url('{SITE_URL}userfiles/templates/microweber-whitelabel/assets/img/templates_bg.png');">
+            <div class="row">
+                <div class="col-xl-10 mx-auto allow-drop element" id="element_1673256181041" style="--animate-duration:1s;">
+<div class="element mw-empty-element" id="element_1673256181284" style="--animate-duration:1s;">
+
+
+
+
+
+
+<div class="element mw-empty-element" id="element_1673256182187" style="--animate-duration:1s; visibility: visible;">
+<h1 class="element" data-mwplaceholder="هذا هو لقبي" id="element_1673256181288" style="--animate-duration:1s; visibility: visible;" staticdesign="true">طـرق الدفع
+</h1>
+<img class="element" src="{SITE_URL}userfiles/media/default/63b4944fdb6f2629189b8b98-420-ic-name-of-icon-24px.png" id="element_1673256182192" style="--animate-duration:1s; height: auto; width: 113px; visibility: visible;" staticdesign="true">
+<div class="mw-row" id="element_row_1673256182312" style="height: auto;">
+  <div class="mw-col" style="width: 58%; height: auto; --animate-duration:1s;" id="mw-selector-1673256189787" staticdesign="true">
+      <div class="mw-col-container element" id="element_1673256182518">
+        <div class="mw-empty-element element" id="element_1673256182511" style="--animate-duration:1s;">
+
+<h1 class="element" data-mwplaceholder="هذا هو لقبي" id="element_1673256182519" style="visibility: visible; --animate-duration:1s;">بطاقة الدفع</h1>
+</div>
+
+      </div>
+<p class="element lipsum" data-mwplaceholder="This text is set by default and is suitable for edit in real time. By default the drag and drop core feature will allow you to position it anywhere on the site. Get creative &amp; Make Web." id="element_1673256182544" style="--animate-duration:1s; visibility: visible;" staticdesign="true">تمكــن هــذه الخدمـــة للعمــلاء من عمليـــة الســداد للخدمات دون الحاجة للوجود الهاتف وتتميز بسرعــه استخدامها
+
+</p>
+<div class="mw-row" id="element_row_1673256182598" style="height: auto;">
+  <div class="mw-col" style="width: 50%; height: auto;">
+      <div class="mw-col-container element" id="element_1673256182603">
+        <div class="mw-empty-element element" id="element_1673256182602"><module class="module mt-ready module-btn" data-mw-title="Button" data-type="btn" id="btn-20230109093544" style="--animate-duration:1s;"></module></div>
+      </div>
+   </div>
+   <div class="mw-col" style="width: 50%; height: auto;">
+      <div class="mw-col-container element">
+        <div class="mw-empty-element element" id="element_1673256182597" style="--animate-duration:1s;"><module class="module mt-ready module-audio" data-mw-title="Audio" data-type="audio" id="audio-20230109093550"></module></div>
+      </div>
+   </div>
+</div>
+
+   </div>
+   <div class="mw-col" style="width: 42%; height: auto;">
+      <div class="mw-col-container element" id="element_1673256182319">
+        <div class="mw-empty-element element" id="element_1673256182311" style="--animate-duration:1s;"><img class="element" src="{SITE_URL}userfiles/media/default/63b58ecb7225de3421c7ac93-group-42759-p-500.png" id="element_1673256182320" style="height: auto; width: 336.473px;"></div>
+      </div>
+   </div>
+</div>
+</div>
+</div>
+
+
+
+
+                    
+                    
+                    <br><br>
+                    
+                    <br>
+                    <br>
+                    <br>
+                    
+                    <br>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+";}

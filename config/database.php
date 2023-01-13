@@ -18,7 +18,7 @@
       'host' => '127.0.0.1',
       'database' => 'microweber',
       'username' => 'microweber',
-      'password' => 'ahmed132',
+      'password' => 'ahmed132_',
       'charset' => 'utf8',
       'collation' => 'utf8_unicode_ci',
       'prefix' => 'localhost__',

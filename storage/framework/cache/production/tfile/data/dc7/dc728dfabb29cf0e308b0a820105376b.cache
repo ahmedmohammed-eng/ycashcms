@@ -1,0 +1,19 @@
+000046a:1:{s:4:"time";s:21:"0.34567200 1673637198";}1673697198a:9:{s:2:"id";i:199;s:10:"updated_at";s:19:"2023-01-13 17:08:26";s:10:"created_at";s:19:"2023-01-13 17:08:26";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"module";s:6:"rel_id";s:1:"0";s:5:"field";s:36:"layout-skin-1-layouts-20230113170710";s:5:"value";s:831:"
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-12 allow-drop element" id="element_1673629614593" style="--animate-duration:1s;" staticdesign="true">
+                <div class="mw-row" id="element_row_1673629614581" style="height: auto;">
+                    <div class="mw-col" style="width: 100%; height: auto;">
+                        <div class="mw-col-container element">
+                            <div class="element" id="element_1673629614578">
+<div class="element" id="element_1673629614839">
+    <p dir="RTL" class="element" id="element_1673629614840" style="--animate-duration:1s;" staticdesign="true"><b>حياة أفضل.</b></p>
+</div>
+</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+";}

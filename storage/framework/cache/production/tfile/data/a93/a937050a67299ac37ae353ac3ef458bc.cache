@@ -1,0 +1,3 @@
+000046a:1:{s:4:"time";s:21:"0.54744800 1673633731";}1673693731a:9:{s:2:"id";i:7;s:10:"updated_at";s:19:"2023-01-02 14:27:49";s:10:"created_at";s:19:"2019-10-03 07:54:55";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"global";s:6:"rel_id";s:1:"0";s:5:"field";s:34:"microweber-whitelabel_header_login";s:5:"value";s:266:"
+                                <a href="{SITE_URL}#" class="dropdown-button safe-element"><i class="fa fa-user safe-element"></i> <span class="safe-element" id="mw-selector-1672669146720" style="--animate-duration:1s;">Login</span></a>
+                            ";}

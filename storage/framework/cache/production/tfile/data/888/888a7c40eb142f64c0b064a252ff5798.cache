@@ -1,0 +1,55 @@
+000046a:1:{s:4:"time";s:21:"0.61285800 1673633731";}1673693731a:9:{s:2:"id";i:157;s:10:"updated_at";s:19:"2023-01-09 14:15:43";s:10:"created_at";s:19:"2022-12-31 08:01:51";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"module";s:6:"rel_id";s:1:"0";s:5:"field";s:37:"layout-skin-1-mw-layout-1672472440334";s:5:"value";s:4572:"
+    <div class="container-fluid" id="mw-selector-1673272470591" style="--animate-duration:1s;">
+        <div class="row" id="mw-selector-1673272470594" style="--animate-duration:1s;">
+            <div class="col-12 allow-drop element col-md-12" id="element_1672472440350" style="--animate-duration:1s;">
+                
+            <div class="mw-row" style="height: auto; --animate-duration:1s; visibility: visible;" id="element_row_1672472440356">
+                    <div class="mw-col" style="width: 20%; height: auto; --animate-duration:1s;" id="mw-selector-1672472637264">
+                        <div class="mw-col-container element" id="element_1672472441628">
+                            <div class="element" id="element_1672472440353" style="--animate-duration:1s;">
+
+
+
+<div class="element mw-empty-element" id="element_1672584000217" style="--animate-duration:1s; visibility: visible;">
+
+<div class="element" id="element_1672584000553" style="--animate-duration:1s;">
+<img id="image_1672586119334" class="element" src="{SITE_URL}userfiles/media/default/group-42739.png" style="height: auto; width: 268.611px;"><module class="module mt-ready module module-audio " data-mw-title="Audio" data-type="audio" id="audio-20230101152440" parent-module-id="mw-layout-1672472440334" parent-module="layouts"></module>
+</div>
+</div>
+<p class="element" id="element_1672584000201" style="--animate-duration:1s;"><br></p>
+</div>
+                        </div>
+                    </div>
+                <div class="mw-col" style="width: 20%; height: auto; --animate-duration:1s;" id="mw-selector-1672472637267"><div class="mw-col-container element" id="element_1672583582288"><div class="mw-empty-element element" id="element_1672472440383">
+<div class="element" id="element_1672472441849">
+<img id="image_1672586119268" class="element" src="{SITE_URL}userfiles/media/default/group-42780.png" style="height: auto; --animate-duration:1s; width: 268.235px;" staticdesign="true"><module class="module mt-ready module module module-audio " data-mw-title="Audio" data-type="audio" id="audio-20230101152435" parent-module-id="mw-layout-1672472440334" parent-module="layouts" style="--animate-duration:1s;"></module>
+</div>
+
+</div></div></div>
+<div class="mw-col" style="width: 20%; height: auto; --animate-duration:1s;" id="mw-selector-1672584321868"><div class="mw-col-container element" id="element_1672472441627"><div class="mw-empty-element element" id="element_1672472440384">
+<img id="image_1672586119240" class="element" src="{SITE_URL}userfiles/media/default/component-123-1.png" style="width: 264.405px; height: auto; --animate-duration:1s;"><module class="module mt-ready module module-audio " data-mw-title="Audio" data-type="audio" id="audio-20230101152428" parent-module-id="mw-layout-1672472440334" parent-module="layouts"></module>
+
+
+</div></div></div>
+<div class="mw-col" style="width: 20%; height: auto; --animate-duration:1s;" id="mw-selector-1672472637237"><div class="mw-col-container element" id="element_1672472440545"><div class="mw-empty-element element" id="element_1672472440385">
+<div class="element" id="element_1672472441001" style="--animate-duration:1s;">
+<img id="image_1672586119219" class="element" src="{SITE_URL}userfiles/media/default/group-42782.png" style="width: 267.417px; height: auto; --animate-duration:1s;"><module class="module mt-ready module module-audio " data-mw-title="Audio" data-type="audio" id="audio-20230101152503" parent-module-id="mw-layout-1672472440334" parent-module="layouts"></module>
+</div>
+
+</div></div></div>
+<div class="mw-col" style="width: 20%; height: auto; --animate-duration:1s;" id="mw-selector-1672584321796">
+<div class="mw-col-container element" id="element_1672472440855" style="--animate-duration:1s;"><div class="element" id="element_1672583997909">
+<img id="image_1672586119178" class="element" src="{SITE_URL}userfiles/media/default/group-42759.png" style="--animate-duration:1s; width: 264.742px; height: auto;"><module class="module mt-ready module-audio" data-mw-title="Audio" data-type="audio" id="audio-20230101152444" style="visibility: visible; --animate-duration:1s;" parent-module-id="mw-layout-1672472440334" parent-module="layouts"></module>
+</div></div>
+<div class="mw-col-container element" id="element_1672472440855">
+
+<p class="element" id="element_1672583998198" style="--animate-duration:1s;"><br></p>
+</div>
+<div class="mw-col-container element" id="element_1672472440855"><p class="element" id="element_1672586119149"><br>
+</p></div>
+</div>
+</div>
+</div>
+        </div>
+    </div>
+";}

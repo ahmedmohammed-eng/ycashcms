@@ -1,0 +1,86 @@
+000046a:1:{s:4:"time";s:21:"0.59769500 1673633731";}1673693731a:9:{s:2:"id";i:182;s:10:"updated_at";s:19:"2023-01-13 18:15:22";s:10:"created_at";s:19:"2023-01-08 06:32:27";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"module";s:6:"rel_id";s:1:"0";s:5:"field";s:37:"layout-skin-1-mw-layout-1673158579778";s:5:"value";s:6173:"
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12 col-md-12 allow-drop element" id="element_1673158579892" style="--animate-duration:1s;">
+                <div class="mw-row" style="height: auto;" id="element_row_1673158579783">
+                   
+                <div class="mw-col" style="width: 100%; height: auto; --animate-duration:1s;" id="mw-selector-1673187977038">
+                  
+                <div class="mw-col-container element" id="element_1673158580179">
+                         
+                <div class="element" id="element_1673158579780">
+<div class="mw-row" id="element_row_1673158580113" style="height: auto;">
+  <div class="mw-col" style="width: 55.6%; height: auto; --animate-duration:1s;" id="mw-selector-1673159201962" staticdesign="true">
+      <div class="mw-col-container element col-sm-2 col-md-12" id="element_1673158580217" style="--animate-duration:1s;">
+        <div class="mw-empty-element element" id="element_1673158580110" style="--animate-duration:1s;" staticdesign="true">
+
+<div class="mw-row" id="element_row_1673158580213" style="height: auto;">
+  <div class="mw-col" style="width: 50%; height: auto;">
+      <div class="mw-col-container element" id="element_1673158580787">
+        <div class="mw-empty-element element"><p class="element" id="element_1673158580790"></p></div>
+      </div>
+   </div>
+   <div class="mw-col" style="width: 50%; height: auto;">
+      <div class="mw-col-container element" id="element_1673162307729">
+        <div class="mw-empty-element element" id="element_1673158580212"><p class="element" id="element_1673158580233">
+</p></div>
+      </div>
+   </div>
+</div>
+
+<div class="element" id="element_1673161284282"><p class="element" id="element_1673162307679" style="--animate-duration:1s;"><br></p></div>
+<div class="element" id="element_1673161284284" style="--animate-duration:1s;"><p class="element" id="element_1673162307604" style="--animate-duration:1s;"><br></p></div>
+<div class="element" id="element_1673161284286"><p class="element" id="element_1673162307367" style="--animate-duration:1s;"><br></p></div>
+<h2 class="element" id="dlp-item-1673158580548" staticdesign="true" style="--animate-duration:1s; visibility: visible;"> البوابة الوطنية للمدفوعات</h2>
+
+
+
+
+
+<p class="element lipsum" data-mwplaceholder="This text is set by default and is suitable for edit in real time. By default the drag and drop core feature will allow you to position it anywhere on the site. Get creative &amp; Make Web." id="element_1673158580237" style="--animate-duration:1s;"><br></p>
+<p class="element lipsum" data-mwplaceholder="This text is set by default and is suitable for edit in real time. By default the drag and drop core feature will allow you to position it anywhere on the site. Get creative &amp; Make Web." id="element_1673158580237" style="--animate-duration:1s;">بوابة المدفوعات متعدد الخدمات والتي تتيح للعمــــــلاء</p>
+<p class="element lipsum" data-mwplaceholder="This text is set by default and is suitable for edit in real time. By default the drag and drop core feature will allow you to position it anywhere on the site. Get creative &amp; Make Web." id="element_1673158580237">  تنفيذ معاملاتهم المالية عبر الهاتف المحمول او بطائق الدفع<br></p>
+<p class="element lipsum" data-mwplaceholder="This text is set by default and is suitable for edit in real time. By default the drag and drop core feature will allow you to position it anywhere on the site. Get creative &amp; Make Web." id="element_1673158580237" style="visibility: visible;">   <span id="mw-selector-1672861397031" staticdesign="true" style="--animate-duration:1s;">وتمكينهم من تنفيذ معاملاتهم المالية بشكل رقمي اكثر امان</span><br></p>
+<module class="module module-btn" data-mw-title="Button" id="mw-module-1673158582355" data-type="btn" style="visibility: visible; --animate-duration:1s;" staticdesign="true" parent-module-id="mw-layout-1673158579778" parent-module="layouts"></module>
+<div class="mw-row" id="element_row_1673158583323" style="height: auto;">
+  <div class="mw-col" style="width: 52.4%; height: auto; --animate-duration:1s;" id="mw-selector-1673159202036">
+      <div class="mw-col-container element" id="element_1673158583953">
+        <div class="mw-empty-element element" id="element_1673158583322" style="--animate-duration:1s;" staticdesign="true">
+<module class="module mt-ready module module-btn " data-mw-title="Button" data-type="btn" id="btn-20230108063418" style="--animate-duration:1s;" staticdesign="true" parent-module-id="mw-layout-1673158579778" parent-module="layouts"></module>
+
+</div>
+      </div>
+   </div>
+   <div class="mw-col" style="width: 47.6%; height: auto; --animate-duration:1s;" id="mw-selector-1673534201815">
+      <module class="module mt-ready module module-btn " data-mw-title="Button" data-type="btn" id="btn-20230108063423" style="--animate-duration:1s; visibility: visible;" staticdesign="true" parent-module-id="mw-layout-1673158579778" parent-module="layouts"></module>
+
+<div class="mw-col-container element" id="element_1673158583325" style="--animate-duration:1s;" staticdesign="true">
+        <div class="mw-empty-element element" id="element_1673158583324" style="--animate-duration:1s;" staticdesign="true"><p class="element" id="element_1673249871737">
+
+
+</p></div>
+      </div>
+   </div>
+</div>
+</div>
+      </div>
+   </div>
+   <div class="mw-col" style="width: 44.4%; height: auto;">
+      <div class="mw-col-container element" id="element_1673158580188">
+        <div class="mw-empty-element element" id="element_1673158580178"><img class="element" src="{SITE_URL}userfiles/media/default/home1_1.png" id="element_1673158580181" style="height: auto; --animate-duration:1s; width: 381.204px;" staticdesign="true"></div>
+      </div>
+   </div>
+</div>
+</div>
+                       
+                                  
+            </div>
+                    </div>
+                </div>
+            
+
+</div>
+        </div>
+    </div>
+   
+";}

@@ -1,0 +1,90 @@
+000046a:1:{s:4:"time";s:21:"0.63940700 1673633731";}1673693731a:9:{s:2:"id";i:183;s:10:"updated_at";s:19:"2023-01-09 09:11:00";s:10:"created_at";s:19:"2023-01-08 08:41:27";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"module";s:6:"rel_id";s:1:"0";s:5:"field";s:37:"layout-skin-5-mw-layout-1673166014494";s:5:"value";s:4682:"
+    <section class="section-13 inverse" id="mw-selector-1673167586019" style="--animate-duration:1s;">
+        <div class="container p-t-150 p-b-150 background-image-holder element" style="background-image: url('{SITE_URL}userfiles/templates/microweber-whitelabel/assets/img/templates_bg.png'); --animate-duration:1s;" id="mw-selector-1673167586016">
+            <div class="row element">
+                <div class="col-xl-10 mx-auto allow-drop element" id="element_1673166159759" style="--animate-duration:1s;">
+<h1 class="element" data-mwplaceholder="هذا هو لقبي" id="element_1673166160576" staticdesign="true" style="--animate-duration:1s;">الخدمات المالية</h1>
+
+
+                    
+<div class="mw-row" id="element_row_1673166160111" style="height: auto;">
+  <div class="mw-col" style="width: 64.4%; height: auto; --animate-duration:1s;" id="mw-selector-1673166965911">
+      <div class="mw-col-container element" id="element_1673166160113">
+        <div class="mw-empty-element element" id="element_1673166160114">
+<div class="mw-row" id="element_row_1673166160422" style="height: auto;">
+  <div class="mw-col" style="width: 90.8%; height: auto;">
+      <div class="mw-col-container element" id="element_1673166160424">
+        
+      </div>
+<div class="element mw-empty-element" id="element_1673166161173" style="--animate-duration:1s;"><img class="element" src="{SITE_URL}userfiles/media/uploaded/lcn3xkq6.png" id="element_1673166161445" style="visibility: visible;" title="" alt=""></div>
+
+
+
+
+   </div>
+   <div class="mw-col" style="width: 9.2%; height: auto;">
+      <div class="mw-col-container element" id="element_1673166160423">
+        
+      </div>
+   </div>
+</div>
+</div>
+      </div>
+<div class="mw-row" id="element_row_1673166161476" style="height: auto;">
+  <div class="mw-col" style="width: 9.2%; height: auto; --animate-duration:1s;" id="mw-selector-1673254364764">
+      <div class="mw-col-container element" id="element_1673166161794">
+        
+      </div>
+   </div>
+   <div class="mw-col" style="width: 90.8%; height: auto;">
+      <div class="mw-col-container element" id="element_1673166161793">
+        <div class="mw-empty-element element" id="element_1673166161475" style="--animate-duration:1s;">
+<p class="element lipsum" data-mwplaceholder="This text is set by default and is suitable for edit in real time. By default the drag and drop core feature will allow you to position it anywhere on the site. Get creative &amp; Make Web." id="element_1673166161777" style="--animate-duration:1s;" staticdesign="true">تمكــن هــذه الخدمـــة للعمــلاء من عمليـــة الســداد  للخدمات دون الحاجة للوجود الهاتف وتتميز بسرعــه استخدامها
+
+</p>
+<div class="element mw-empty-element" id="element_1673166161855">
+<div class="mw-row" id="element_row_1673167423992" style="height: auto;">
+  <div class="mw-col" style="width: 50%; height: auto; --animate-duration:1s;" id="mw-selector-1673249898510" staticdesign="true">
+      <div class="mw-col-container element">
+        <div class="mw-empty-element element" id="element_1673167423993" style="--animate-duration:1s;"><module class="module mt-ready module-btn" data-mw-title="Button" data-type="btn" id="btn-20230108084052" style="--animate-duration:1s; visibility: visible;" parent-module-id="mw-layout-1673166014494" parent-module="layouts"></module></div>
+      </div>
+   </div>
+   <div class="mw-col" style="width: 50%; height: auto;">
+      <div class="mw-col-container element" id="element_1673167424170">
+        <div class="mw-empty-element element" id="element_1673167424000"><module class="module mt-ready module-audio" data-mw-title="Audio" data-type="audio" id="audio-20230108084421" parent-module-id="mw-layout-1673166014494" parent-module="layouts"></module></div>
+      </div>
+   </div>
+</div>
+</div>
+
+
+
+
+</div>
+
+      </div>
+   </div>
+</div>
+
+   </div>
+   <div class="mw-col" style="width: 35.6%; height: auto;">
+      <div class="mw-col-container element" id="element_1673166160112">
+        <div class="mw-empty-element element" id="element_1673166160110"><img class="element" src="{SITE_URL}userfiles/media/default/63bb0ab2ae7aab4165a56b42-22-01-01-p-500-1.png" id="element_1673166160415" style="height: auto; width: 330.337px; --animate-duration:1s;"></div>
+      </div>
+   </div>
+</div>
+
+                    
+                    <br><br>
+                    
+                    <br>
+                    <br>
+                    <br>
+                    
+                    <br>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+";}

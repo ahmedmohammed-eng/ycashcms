@@ -1,0 +1,47 @@
+000046a:1:{s:4:"time";s:21:"0.55960200 1673633731";}1673693731a:9:{s:2:"id";i:159;s:10:"updated_at";s:19:"2023-01-12 07:08:53";s:10:"created_at";s:19:"2022-12-31 08:44:27";s:10:"created_by";i:1;s:9:"edited_by";i:1;s:8:"rel_type";s:6:"global";s:6:"rel_id";s:1:"0";s:5:"field";s:28:"microweber-whitelabel_footer";s:5:"value";s:2217:"
+                <div class="row">
+                    <div class="mx-auto col-xl-12">
+                        <div class="row" id="mw-selector-1672862798945" style="--animate-duration:1s;">
+                            <div class="mx-auto col col-xl-3 allow-drop element" id="element_1672647001099" style="--animate-duration:1s;">
+
+                                <div class="logo nodrop element" id="mw-selector-1672853441363" style="--animate-duration:1s;">
+                                    <img src="{SITE_URL}userfiles/media/default/alttbyk-72_1.png" class="safe-element" style="height: auto; --animate-duration:1s; width: 116.727px;" id="mw-selector-1672853441356" staticdesign="true">
+                                </div>
+
+                                
+                                
+                            </div>
+
+                            <div class="mx-auto col col-xl-2 allow-drop element" id="element_1672647001115" style="--animate-duration:1s;">
+<module class="module mt-ready module-social-links" data-mw-title="Social Links" data-type="social_links" id="social-links-20230107140313"></module>
+
+                                
+                                
+                            </div>
+
+                            <div class="mx-auto col col-xl-2 allow-drop element" id="element_1672849782451" style="--animate-duration:1s;" staticdesign="true">
+
+
+
+
+                                
+                                
+                            </div>
+
+                            <div class="mx-auto col col-xl-2 allow-drop element" id="element_1672849782448" style="--animate-duration:1s;">
+
+
+
+
+                                
+                                
+                            </div>
+
+                            <div class="mx-auto col col-xl-2 allow-drop element" id="element_1672849783594" style="--animate-duration:1s;">
+                                
+                                <module class=" module module-menu " data-mw-title="Menu" id="module-menu--3" name="footer_menu_4" template="footer" data-type="menu"></module>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            ";}
